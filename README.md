@@ -1,4 +1,13 @@
-### Hi there 👋
+# Dr. Rafael Alfredo Cavazos Martínez
+## Teacher at [UANL](www.uanl.edu.mx "UANL") 
+### Social Networking
+[LinkedIn](https://www.linkedin.com/in/rafaelcavazos/ "LinkedIn")
+
+### Reasearch work
+* Article: [Learning Models for Student Performance
+Prediction](https://doi.org/10.1007/978-3-030-02840-4_14 "Article")
+* Tesis: Feature selection and construction by groups using genetic algorithm by blocks
+
 
 <!--
 **rafacavazos/rafacavazos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
